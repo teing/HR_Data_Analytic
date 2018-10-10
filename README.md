@@ -1,3 +1,7 @@
-# HR_Data_Analytic
+# HR Case: Employee Attrition Prediction
 
-Attrition Predictive case
+© 2018 T.Y.
+
+
+Employee Attrition Prediction is internal project to predict employee attrition using non proprietary HR information.
+This project involves the E2E process of the prediction case, from data preparation to prediction model.
